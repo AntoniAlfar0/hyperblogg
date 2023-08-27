@@ -16,3 +16,5 @@ ecto y ejecutar el comando:
 
 
 en camara parece alto pero la verdad no es tan alto.
+
+hoy es el CEO de platzi
