@@ -1,0 +1,15 @@
+Le indicaremos a Git que que
+remos
+ crear un nuevo r
+ epositori
+ o para uti
+ lizar su sis
+ tema de con
+trol de version
+
+es. Solo debemos 
+posi
+
+cionarnos en la
+ carpeta raíz de nuestro proy
+ecto y ejecutar el comando:
