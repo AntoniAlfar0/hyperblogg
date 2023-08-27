@@ -1,5 +1,5 @@
-Le indicaremos a Git que que
-remos
+Le indicaremos a Git que 
+queremos
  crear un nuevo r
  epositori
  o para uti
@@ -13,3 +13,6 @@ posi
 cionarnos en la
  carpeta raíz de nuestro proy
 ecto y ejecutar el comando:
+
+
+en camara parece alto pero la verdad no es tan alto.
