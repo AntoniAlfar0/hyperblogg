@@ -8,5 +8,6 @@
  * el verdadero amor por las buenas practicas
  * trucos muy locos del profesor
  * las multiples personalidades de freddy
+ * creado por el increible platzi team
  
  t como un amante recordatorio:**Este readme es un chiste**. Disenado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a [ver el curso](https://platzi.com/new-home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/)
